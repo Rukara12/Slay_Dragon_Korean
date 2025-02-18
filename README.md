@@ -1,7 +1,7 @@
 # Slay_Dragon_Korean
 The Nameless: Slay Dragon 한글패치
 
-압축 해제하면 나오는 파일을 게임 폴더에 덮어씌우시면 됩니다.
+Releases에서 7z를 받고 압축 해제하면 나오는 파일을 게임 폴더에 덮어씌우시면 됩니다.
 
 피드백은 언제나 정말 환영합니다.
 
